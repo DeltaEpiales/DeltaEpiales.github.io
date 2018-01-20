@@ -34,6 +34,10 @@ header p {
 }
 
 .background {
+  background-position: top;
+  height: 50%;
+  background-repeat: no-repeat;
+  background-size: 1500px, 1800px;
   background-image: url("https://raw.githubusercontent.com/DeltaEpiales/howdy/master/loading%20gif.gif");
 }
 
