@@ -33,6 +33,10 @@ header p {
   margin: 0;
 }
 
+.background {
+  background-image: url("https://raw.githubusercontent.com/DeltaEpiales/howdy/master/loading%20gif.gif");
+}
+
 .jumbotron {
   display: flex;
   align-items: center;
